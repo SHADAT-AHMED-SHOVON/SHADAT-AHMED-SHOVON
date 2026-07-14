@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=SHADAT%20AHMED%20SHOVON&fontSize=45&fontColor=00E5FF&desc=Network%20Engineering%20%7C%20Cisco%20%7C%20MikroTik%20%7C%20AWS&descAlignY=75&descSize=18&descColor=C9D1D9&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=SHADAT%20AHMED%20SHOVON&fontSize=45&fontColor=00E5FF&desc=Cisco%20%7C%20MikroTik&descAlignY=75&descSize=18&descColor=C9D1D9&animation=twinkling" width="100%" />
 </div>
 
 <p align="center">
@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<h3 align="center">「 Network Engineer | AWS Cloud Architect | RHCSA Aspirant 」</h3>
+<h3 align="center">「 Network Engineer 」</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=800&color=00E5FF&center=true&vCenter=true&width=800&lines=Router%3E+enable;Router%23+configure+terminal;Core-Switch(config)%23+interface+GigabitEthernet0%2F0;%5BMikroTik%5D+%2Fip+address+add+address%3D10.0.0.1%2F24+interface%3Dether1;AWS+EC2+Instance+Initializing...;Connection+Established+Successfully!" alt="CLI Config" />
