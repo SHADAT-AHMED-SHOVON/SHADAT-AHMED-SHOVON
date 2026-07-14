@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/SHADAT-AHMED-SHOVON/SHADAT-AHMED-SHOVON/blob/main/32809140-rubiks-cube-6366.gif" alt="Moving Cube" width="200" height="200 />
+  <img src="https://github.com/SHADAT-AHMED-SHOVON/SHADAT-AHMED-SHOVON/blob/main/32809140-rubiks-cube-6366.gif" alt="Moving Cube" width="300"/>
   <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=SHADAT%20AHMED%20SHOVON&fontSize=45&fontColor=FFFFFF&desc=Network%20Engineering%20%7C%20Cisco%20%7C%20MikroTik%20%7C%20AWS&descAlignY=75&descSize=18&descColor=C9D1D9&animation=twinkling&color=0:000000,100:800000" width="100%" />
   <br>
