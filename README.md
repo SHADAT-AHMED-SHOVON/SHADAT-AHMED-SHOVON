@@ -29,7 +29,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,linux,redhat,mikrotik,cisco,fortinet,python,php,c#,github&perline=10" />
+    <img src="https://skillicons.dev/icons?i=aws,linux,redhat,bash,python,php,c#,github&perline=10" />
   </a>
   <br><br>
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
