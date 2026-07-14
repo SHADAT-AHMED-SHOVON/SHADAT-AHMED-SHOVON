@@ -16,7 +16,7 @@
         <li>💻 <b>Current Focus:</b> Routing, Switching (OSPF, BGP, VLSM).</li>
         <li>☁️ <b>Future Goals:</b> AWS Cloud Architecture & RHCSA.</li>
         <li>🌍 <b>Base:</b> Dhaka, Bangladesh.</li>
-        <li>📫 <b>Reach Me:</b> <a href="YOUR_LINKEDIN_URL">LinkedIn</a></li>
+        <li>📫 <b>Reach Me:</b> <a href="https://www.linkedin.com/in/shadat-ahmed-shovon-501486217/">LinkedIn</a></li>
       </ul>
     </td>
     <td width="40%" align="center">
@@ -29,7 +29,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,linux,redhat,bash,python,php,html,css,github&perline=10" />
+    <img src="https://skillicons.dev/icons?i=aws,linux,redhat,mikrotik,cisco,fortinet,python,php,c#,github&perline=10" />
   </a>
   <br><br>
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
