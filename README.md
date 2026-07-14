@@ -7,8 +7,8 @@
 
 <br>
 
-## 🖥️ Cisco CLI (Live Config)
+## 🖥️ Live Network Configuration (CLI)
 
 ```text
-Connection established to 192.168.1.254...
-Authenticating user: admin
+[+] Initiating SSH Connection to Core Devices...
+[+] Authenticating user: admin... Access Granted.
