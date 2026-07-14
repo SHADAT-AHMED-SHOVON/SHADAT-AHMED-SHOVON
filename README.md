@@ -35,7 +35,7 @@
         <li>🎛️ <b>Vendor Expertise:</b> Cisco & MikroTik RouterOS.</li>
         <li>☁️ <b>Cloud Goals:</b> AWS Cloud Architecture.</li>
         <li>🌍 <b>Base:</b> Dhaka, Bangladesh.</li>
-        <li>📫 <b>Reach Me:</b> <a href="YOUR_LINKEDIN_URL">LinkedIn</a></li>
+        <li>📫 <b>Reach Me:</b> <a href="https://www.linkedin.com/in/shadat-ahmed-shovon-501486217/">LinkedIn</a></li>
       </ul>
     </td>
   </tr>
